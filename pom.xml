@@ -12,12 +12,12 @@
         <repository>
             <id>nexus-snapshots</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://a14ae5bb.ngrok.io:8081/repository/maven-releases/</url>
+            <url>http://a14ae5bb.ngrok.io/repository/SAMPLE-REL/</url>
         </repository>
         <snapshotRepository>
             <id>nexus-snapshots</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://a14ae5bb.ngrok.io:8081/repository/maven-snapshots/</url>
+            <url>http://a14ae5bb.ngrok.io/repository/SAMPLE-SNAP/</url>
         </snapshotRepository>
     </distributionManagement>
 
