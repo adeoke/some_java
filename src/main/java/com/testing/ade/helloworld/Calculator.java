@@ -9,4 +9,7 @@ public class Calculator {
         return one * two;
     }
 
+    int divide(int one, int two) {
+        return one / two;
+    }
 }
