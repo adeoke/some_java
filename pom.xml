@@ -12,12 +12,12 @@
         <repository>
             <id>nexus-release</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://0c64279f.ngrok.io/repository/SAMPLE-REL/</url>
+            <url>http://55e6486d.ngrok.io/repository/SAMPLE-REL/</url>
         </repository>
         <snapshotRepository>
             <id>nexus-snapshots</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://0c64279f.ngrok.io/repository/SAMPLE-SNAP/</url>
+            <url>http://55e6486d.ngrok.io/repository/SAMPLE-SNAP/</url>
         </snapshotRepository>
     </distributionManagement>
 
